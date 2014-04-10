@@ -24,7 +24,14 @@ Depending on the branch and the work, it's a good idea to delete the branch afte
 
 It's important to provide a good commit message. Reading through the + & -'s can be time consuming and a pain. A good commit message can reduce the amount of digging around required for both you (at a later date) and for others.
 
+### Pull Requests
 
+Pull Requests are the other major thing to grasp when using GitHub Flow. The pull request is where you can inspect incoming code, discuss what's going on in the pull request with others, and test out new things.
+
+* Not all pull requests have to be merged. If you have an experimental piece of code that you want to test out, feel free to leave it as a pull request until all the tests are complete.
+* You don't have to have code in a pull request. You can use a pull request to spark a discussion with screenshots and @mentions. Anyone with access to the repo can view pull requests and comment on them.
+* You can keep working on code even after you've done a pull request. If you make a pull request and then realize you forgot to add a certain font-size for example, you can just push that change up and it will be reflected.
+* You can comment on individual lines of code. Under the *Files changed* tab you see a list of line number commits. If you hover over the line, you'll see a little blue message icon pop up on the left hand side.
 
 ### Resources
 
