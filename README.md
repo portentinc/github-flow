@@ -1,4 +1,4 @@
-github-flow
+GitHub-Flow
 ===========
 
 ##### There is one golden rule. The master branch is *always* deployable
@@ -23,6 +23,8 @@ Depending on the branch and the work, it's a good idea to delete the branch afte
 ### Commits
 
 It's important to provide a good commit message. Reading through the + & -'s can be time consuming and a pain. A good commit message can reduce the amount of digging around required for both you (at a later date) and for others.
+
+
 
 ### Resources
 
