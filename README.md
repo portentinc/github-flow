@@ -33,3 +33,34 @@ It's important to provide a good commit message. Reading through the + & -'s can
 
 
 ### Josh
+
+### Terminal Commands
+1. Create the branch on your local machine :
+```$ git branch <name_of_your_new_branch>```
+
+2. Push the branch on github :
+```$ git push origin <name_of_your_new_branch>```
+
+3. Switch to your new branch :
+```$ git checkout <name_of_your_new_branch>```
+
+When you want to commit something in your branch, be sure to be in your branch.
+
+4. You can see all branches created by using
+```$ git branch```
+Which will show :
+```* approval_messages
+  master
+  master_clean```
+
+5. Add a new remote for your branch :
+```$ git remote add <name_of_your_remote> <url>```
+
+6. Push changes from your commit into your branch :
+```$ git push origin <name_of_your_remote>```
+
+7. Delete a branch on your local filesytem :
+```$ git branch -d <name_of_your_new_branch>```
+
+8. Delete the branch on github :
+```$ git push origin :<name_of_your_new_branch>```
