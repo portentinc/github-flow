@@ -14,7 +14,7 @@ GitHub-Flow
 
 ### Branching
 
-I'm starting with branching because it's the core tenet of using github flow. Everything goes through branches. Because the master branch is always deployable, the majority of your pull requests will go into the develop branch.
+I'm starting with branching because it's the core tenet of using github flow. Everything goes through branches. Because the master branch is always deployable, the majority of your pull requests will go into a develop branch.  
 
 If you're the only one working on the project there is a strong temptation to just push to the master branch. Avoid this temptation as it'll sneak up on you when you don't want to do it. It's happened to me a few times and I've had to revert commits.
 
