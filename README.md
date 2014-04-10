@@ -30,3 +30,6 @@ It's important to provide a good commit message. Reading through the + & -'s can
 
 1. http://scottchacon.com/2011/08/31/github-flow.html
 2. https://guides.github.com/overviews/flow/
+
+
+### Josh
