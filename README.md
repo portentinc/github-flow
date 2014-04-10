@@ -1,7 +1,7 @@
 github-flow
 ===========
 
-## There is one golden rule. The master branch is **always** deployable
+##### There is one golden rule. The master branch is *always* deployable
 
 ## What is GitHub Flow?
 
@@ -14,21 +14,15 @@ github-flow
 
 ### Branching
 
-I'm starting with branching because it's the core tenet of using github flow. Everything
-goes through branches. Because the master branch is always deployable, the majority of your
-pull requests will go into the develop branch.
+I'm starting with branching because it's the core tenet of using github flow. Everything goes through branches. Because the master branch is always deployable, the majority of your pull requests will go into the develop branch.
 
-If you're the only one working on the project there is a strong temptation to just push
-to the master branch. Avoid this temptation as it'll sneak up on you when you don't want
-to do it. It's happened to me a few times and I've had to revert commits.
+If you're the only one working on the project there is a strong temptation to just push to the master branch. Avoid this temptation as it'll sneak up on you when you don't want to do it. It's happened to me a few times and I've had to revert commits.
 
-Depending on the branch and the work, it's a good idea to delete the branch after you've
-merged it to develop. This is especially relevant with smaller fixes and updates. If you've
-created a branch to fix some links, there's no real reason to keep that branch. Doing this
-ensures that the branch tree isn't cluttered.
+Depending on the branch and the work, it's a good idea to delete the branch after you've merged it to develop. This is especially relevant with smaller fixes and updates. If you've created a branch to fix some links, there's no real reason to keep that branch. Doing this ensures that the branch tree isn't cluttered.
 
+### Commits
 
-
+It's important to provide a good commit message. Reading through the + & -'s can be time consuming and a pain. A good commit message can reduce the amount of digging around required for both you (at a later date) and for others.
 
 ### Resources
 
